@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anurag7270
-- 👀 I’m interested in Artificial intelligence, SQL and Python.
+- 👀 I’m interested in Artificial intelligence, DBMS and Python.
 - 🌱 I’m currently learning Full Stack Development.
 - I believe in being proactive rather than reactive. 
 - Being focused, persistent, goal-oriented, and realistic helps me accomplish my objectives. 
