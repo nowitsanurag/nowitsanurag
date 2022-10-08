@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nowitsanurag
 - 👀 I have a knowledge of Artificial intelligence (Machine Learning & Deep Learning), Mysql and Python.
-- 🌱 I’m currently working as a Software Engineer.
+- 🌱 I’m currently working as a Product Manager.
 - I believe in being proactive rather than reactive. 
 - Being focused, persistent, goal-oriented, and realistic helps me accomplish my objectives. 
 - It is also an added advantage of mine to be a quick learner. 
@@ -17,12 +17,12 @@ I write about things I am familiar with, things that trip up folks that I mentor
 Latest Post 👉 [Face Mask Detection using YOLO Algorithm](https://easylearning-platform.blogspot.com/2020/12/face-mask-detection-using-yolo-algorithm.html)
 
 <p align='center'>
-<a href="https://www.instagram.com/anuragtripathi_30/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anurag-tripathi-b3777a170/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/nowitsanurag/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/innowitsanurag/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
 <!---
-anurag7270/anurag7270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nowitsanurag/nowitsanurag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
