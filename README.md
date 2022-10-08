@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anurag7270
+- 👋 Hi, I’m @nowitsanurag
 - 👀 I have a knowledge of Artificial intelligence (Machine Learning & Deep Learning), Mysql and Python.
 - 🌱 I’m currently working as a Software Engineer.
 - I believe in being proactive rather than reactive. 
