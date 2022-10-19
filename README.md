@@ -14,12 +14,17 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python**. 
 
-Latest Post 👉 [Face Mask Detection using YOLO Algorithm](https://easylearning-platform.blogspot.com/2020/12/face-mask-detection-using-yolo-algorithm.html)
+- 📫 How to reach me: [My Webpage](https://nowitsanurag.github.io/AnuragPortfolio/)
 
 <p align='center'>
 <a href="https://www.instagram.com/nowitsanurag/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nowitsanurag/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
+[![Linkedin: Anurag Tripathi](https://img.shields.io/badge/-AnuragTripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nowitsanurag/)](https://www.linkedin.com/in/nowitsanurag/)
+[![GitHub nowitsanurag](https://img.shields.io/github/followers/nowitsanurag?label=follow&style=social)](https://github.com/nowitsanurag)
+[![GoogleScholar: Anurag Tripathi](https://img.shields.io/badge/-AnuragTripathi-blue?style=flat-square&logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=gU5VCnYAAAAJ&hl=en)](https://scholar.google.com/citations?user=gU5VCnYAAAAJ&hl=en)
+[![Webpage: Anurag Tripathi](https://img.shields.io/badge/-AnuragTripathi-purple?style=flat-square&logo=HTML5&logoColor=white&link=https://nowitsanurag.github.io/AnuragPortfolio/)](https://nowitsanurag.github.io/AnuragPortfolio/)
 
 
 <!---
