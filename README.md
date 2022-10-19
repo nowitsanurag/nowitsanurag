@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @nowitsanurag
 - 👀 I have a knowledge of Artificial intelligence (Machine Learning & Deep Learning), Mysql and Python.
 - 🌱 I’m currently working as a Product Manager.
-- I believe in being proactive rather than reactive. 
-- Being focused, persistent, goal-oriented, and realistic helps me accomplish my objectives. 
-- It is also an added advantage of mine to be a quick learner. 
-- A good team player but also knows when to step up and lead a team if need arises.
-
 
 
 ### My Digital Garden 🌱
