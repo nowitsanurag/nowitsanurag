@@ -5,7 +5,7 @@
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [Medium](https://medium.com/@tripathi.anurag123.at).
+I write regular blog posts, most of which you will find here [Medium](https://medium.com/@nowitsanurag).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python**. 
 
