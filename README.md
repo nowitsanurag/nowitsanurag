@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <br>
-Hi, I'm [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/); from <b>India</b>. With a versatile 2-year career in technology, I am an experienced Software Engineer and Product Manager with a strong background in software development and product management. Skilled in Python, I have a proven track record of building robust web applications using Django and Flask, with expertise in web scraping, data analysis, and NLP. My knowledge of machine learning and deep learning techniques has helped me to create innovative solutions and drive product development. I am an effective communicator, able to bridge the gap between technical and non-technical stakeholders, and excel in leading cross-functional teams to deliver successful products. I am excited to take on new challenges and opportunities in the field of AI and product management.
+Hi, I'm <strong> Anurag Tripathi </strong>. <br> With a versatile 2-year career in technology, I am an experienced Software Engineer and Product Manager with a strong background in software development and product management. Skilled in Python, I have a proven track record of building robust web applications using Django and Flask, with expertise in web scraping, data analysis, and NLP. My knowledge of machine learning and deep learning techniques has helped me to create innovative solutions and drive product development. I am an effective communicator, able to bridge the gap between technical and non-technical stakeholders, and excel in leading cross-functional teams to deliver successful products. I am excited to take on new challenges and opportunities in the field of AI and product management.
 
 <br>
 
@@ -9,6 +9,7 @@ Hi, I'm [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/); from
 
 
  - 📫 How to reach me: [nowitsanurag@gmail.com](mailto:desphixs@gmail.com);
+ - My Portfolio: [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/)
  - 📫 Follow me on : [GitHub](https://github.com/nowitsanurag);
  - 📫 Follow me on : [Linkedin](https://www.linkedin.com/in/nowitsanurag/);
  - I write regular blog posts, most of which you will find here [Medium](https://medium.com/@nowitsanurag).
