@@ -5,7 +5,7 @@ Hi, I'm <strong> Anurag Tripathi </strong>! <br> With a versatile 2-year career 
 
 <br>
 
-<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a2/f4/d5/a2f4d5d0b749a75aaed40ef6b84ba427.gif" />
 
 
  - 📫 How to reach me: [nowitsanurag@gmail.com](mailto:desphixs@gmail.com);
