@@ -8,10 +8,10 @@ Hi, I'm <strong> Anurag Tripathi </strong>! <br> With a versatile 2-year career 
 <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a2/f4/d5/a2f4d5d0b749a75aaed40ef6b84ba427.gif" />
 
 
- - 📫 How to reach me: [nowitsanurag@gmail.com](mailto:desphixs@gmail.com);
+ - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com);
  - My Portfolio: [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/)
  - 📫 Follow me on : [GitHub](https://github.com/nowitsanurag);
- - 📫 Follow me on : [Linkedin](https://www.linkedin.com/in/nowitsanurag/);
+ - 📫 Follow me on : [Linkedin](https://www.linkedin.com/in/itsanuragtripathi/);
  - I write regular blog posts, most of which you will find here [Medium](https://medium.com/@nowitsanurag).
 
  <br>
