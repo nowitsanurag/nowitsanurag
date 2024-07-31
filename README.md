@@ -11,9 +11,6 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a2/f4/d5/a2f4d5d0b749a75aaed40ef6b84ba427.gif" />
 
 - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com)
-  <!---
-- Explore my Portfolio: [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/)
-  --->
 - Connect on [GitHub](https://github.com/nowitsanurag) and [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/)
 - Discover my writings on [Medium](https://medium.com/@nowitsanurag)
 
