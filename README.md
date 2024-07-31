@@ -25,5 +25,4 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### My Recent Thought Leadership on ETCISO
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7221096405019283456" height="771" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+Read my latest article on ETCISO about the evolving landscape of cybersecurity and the pivotal role of bug bounty programs: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7221096405019283456)
