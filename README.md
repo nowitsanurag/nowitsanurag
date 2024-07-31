@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Welcome! I'm **Anurag Tripathi**, currently spearheading technology initiatives as the CTO at [Com Olho](https://comolho.com), a pioneering startup in the bug bounty arena.
+Welcome! I'm **Anurag Tripathi**, currently spearheading technology initiatives as the Head of Technology at [Com Olho](https://comolho.com), a pioneering startup in the bug bounty arena.
 
 With over three years in the tech industry, I bring a blend of technical acumen and strategic foresight. My background spans software development and product management, specializing in Python, Django, and Flask. I leverage machine learning and natural language processing to innovate and enhance product offerings, ensuring robust web application performance and user-centric solutions.
 
@@ -13,6 +13,7 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com)
 - Connect on [GitHub](https://github.com/nowitsanurag), [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/), and [Twitter](https://twitter.com/nowitsanurag)
 - Discover my writings on [Medium](https://medium.com/@nowitsanurag)
+- 🌐 Join our Bug Bounty Community: [Sign Up Here](https://cyber.comolho.com/user/signup/?utm_source=anurag_github)
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
