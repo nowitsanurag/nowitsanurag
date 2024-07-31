@@ -15,6 +15,12 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 - Discover my writings on [Medium](https://medium.com/@nowitsanurag)
 - 🌐 Join our Bug Bounty Community: [Sign Up Here](https://cyber.comolho.com/user/signup/?utm_source=anurag_github)
 
+<br>
+
+ <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
+ 
+ </br>
+ 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
