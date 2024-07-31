@@ -11,7 +11,7 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a2/f4/d5/a2f4d5d0b749a75aaed40ef6b84ba427.gif" />
 
 - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com)
-- Connect on [GitHub](https://github.com/nowitsanurag) and [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/)
+- Connect on [GitHub](https://github.com/nowitsanurag), [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/), and [Twitter](https://twitter.com/nowitsanurag)
 - Discover my writings on [Medium](https://medium.com/@nowitsanurag)
 
 **Languages and Tools:**
@@ -23,4 +23,7 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### My Recent Thought Leadership on ETCISO
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7221096405019283456" height="771" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
