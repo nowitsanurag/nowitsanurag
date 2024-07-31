@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Welcome! I'm **Anurag Tripathi**, currently spearheading technology initiatives as the Head of Technology at [Com Olho](https://comolho.com), a pioneering startup in the bug bounty arena.
+Welcome! I'm **Anurag Tripathi**, currently spearheading technology initiatives as the CTO at [Com Olho](https://comolho.com), a pioneering startup in the bug bounty arena.
 
 With over two years in the tech industry, I bring a blend of technical acumen and strategic foresight. My background spans software development and product management, specializing in Python, Django, and Flask. I leverage machine learning and natural language processing to innovate and enhance product offerings, ensuring robust web application performance and user-centric solutions.
 
