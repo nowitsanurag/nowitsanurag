@@ -1,28 +1,21 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<br>
-Hi, I'm <strong> Anurag Tripathi </strong>! <br> With a versatile 2-year career in technology, I am an experienced Software Engineer and Product Manager with a strong background in software development and product management. Skilled in Python, I have a proven track record of building robust web applications using Django and Flask, with expertise in web scraping, data analysis, and NLP. My knowledge of machine learning and deep learning techniques has helped me to create innovative solutions and drive product development. I am an effective communicator, able to bridge the gap between technical and non-technical stakeholders, and excel in leading cross-functional teams to deliver successful products. I am excited to take on new challenges and opportunities in the field of AI and product management.
+Welcome! I'm **Anurag Tripathi**, currently spearheading technology initiatives as the Head of Technology at [Com Olho](https://comolho.com), a pioneering startup in the bug bounty arena.
 
-<br>
+With over two years in the tech industry, I bring a blend of technical acumen and strategic foresight. My background spans software development and product management, specializing in Python, Django, and Flask. I leverage machine learning and natural language processing to innovate and enhance product offerings, ensuring robust web application performance and user-centric solutions.
+
+As a proactive communicator, I excel in aligning cross-functional teams and bridging the gap between technical and non-technical stakeholders, driving the collective towards common goals and successful product outcomes.
+
+I’m always open to new challenges and eager to contribute to cutting-edge projects in AI and cybersecurity.
 
 <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a2/f4/d5/a2f4d5d0b749a75aaed40ef6b84ba427.gif" />
 
-
- - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com);
- - My Portfolio: [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/)
- - 📫 Follow me on : [GitHub](https://github.com/nowitsanurag);
- - 📫 Follow me on : [Linkedin](https://www.linkedin.com/in/itsanuragtripathi/);
- - I write regular blog posts, most of which you will find here [Medium](https://medium.com/@nowitsanurag).
-
- <br>
-
- <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
- 
- </br>
+- 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com)
+- Explore my Portfolio: [Anurag Tripathi](https://nowitsanurag.github.io/AnuragPortfolio/)
+- Connect on [GitHub](https://github.com/nowitsanurag) and [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/)
+- Discover my writings on [Medium](https://medium.com/@nowitsanurag)
 
 **Languages and Tools:**
-<br>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -32,10 +25,3 @@ Hi, I'm <strong> Anurag Tripathi </strong>! <br> With a versatile 2-year career 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
-
-<!---
-nowitsanurag/nowitsanurag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
