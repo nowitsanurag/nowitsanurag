@@ -13,7 +13,7 @@ I’m always open to new challenges and eager to contribute to cutting-edge proj
 - 📫 How to reach me: [anurag@comolho.com](mailto:anurag@comolho.com)
 - Connect on [GitHub](https://github.com/nowitsanurag), [LinkedIn](https://www.linkedin.com/in/itsanuragtripathi/), and [Twitter](https://twitter.com/nowitsanurag)
 - Discover my writings on [Medium](https://medium.com/@nowitsanurag)
-- 🌐 Join our Bug Bounty Community: [Sign Up Here](https://cyber.comolho.com/user/signup/?utm_source=anurag_github)
+- 🌐 Join our Bug Bounty Community: [Sign Up Here](https://cyber.comolho.com/researcher/signup/?utm_source=anurag_github)
 
 <br>
 
